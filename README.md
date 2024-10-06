@@ -3,6 +3,7 @@
 ## Overview
 NASA Seismic Detection is a project focused on the detection of seismic activities using data analysis techniques. This repository primarily contains Jupyter Notebooks that process and analyze seismic data to identify and study seismic events.
 
+[Space Apps 2024 Team](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/spyron/)
 
 ## Installation
 To get started with this project, clone the repository and install the required dependencies.
