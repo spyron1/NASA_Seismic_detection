@@ -1,4 +1,4 @@
-## Seismic Detection On Mars
+## Seismic Detection 
 
 ## Overview
 NASA Seismic Detection is a project focused on the detection of seismic activities using data analysis techniques. This repository primarily contains Jupyter Notebooks that process and analyze seismic data to identify and study seismic events.
