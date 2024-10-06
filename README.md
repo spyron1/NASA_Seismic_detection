@@ -19,3 +19,6 @@ The repository is organized as follows:
 1. `notebooks/`: Contains Jupyter Notebooks for data processing and analysis.
 2. `data/`: Directory to store test data and training data.
 3. `scripts/`: Python scripts for various utilities and data processing.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
