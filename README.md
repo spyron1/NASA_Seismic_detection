@@ -5,6 +5,8 @@ NASA Seismic Detection is a project focused on the detection of seismic activiti
 
 [Space Apps 2024 Team](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/spyron/)
 
+[globalnomini](https://www.spaceappschallenge.org/nasa-space-apps-2024/awards/global-nominees/)
+
 ## Installation
 To get started with this project, clone the repository and install the required dependencies.
 
